@@ -1,3 +1,3 @@
-Strategy Pattern: (here)[https://refactoring.guru/design-patterns/strategy]
+Strategy Pattern: [here](https://refactoring.guru/design-patterns/strategy)
 
-C# Exanple: (link)[https://refactoring.guru/design-patterns/strategy/csharp/example]
+C# Exanple: [link](https://refactoring.guru/design-patterns/strategy/csharp/example)

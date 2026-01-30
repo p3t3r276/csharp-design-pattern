@@ -1,1 +1,3 @@
-﻿new Client().Main();
+﻿using DesignPattern.FactoryMethod;
+
+new Client().Main();
